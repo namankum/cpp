@@ -9,3 +9,4 @@ int main (int argc, char const *argv[]){
  income = income = TAX_RATE * income;
  cout <<income << endl;
  return 0;}
+ 
